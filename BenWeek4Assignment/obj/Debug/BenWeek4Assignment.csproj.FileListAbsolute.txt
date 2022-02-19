@@ -1,0 +1,8 @@
+C:\Users\thebe\Documents\GitHub\BenWeek4Assignment\bin\Debug\BenWeek4Assignment.exe.config
+C:\Users\thebe\Documents\GitHub\BenWeek4Assignment\bin\Debug\BenWeek4Assignment.exe
+C:\Users\thebe\Documents\GitHub\BenWeek4Assignment\bin\Debug\BenWeek4Assignment.pdb
+C:\Users\thebe\Documents\GitHub\BenWeek4Assignment\obj\Debug\BenWeek4Assignment.csproj.AssemblyReference.cache
+C:\Users\thebe\Documents\GitHub\BenWeek4Assignment\obj\Debug\BenWeek4Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\thebe\Documents\GitHub\BenWeek4Assignment\obj\Debug\BenWeek4Assignment.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Documents\GitHub\BenWeek4Assignment\obj\Debug\BenWeek4Assignment.exe
+C:\Users\thebe\Documents\GitHub\BenWeek4Assignment\obj\Debug\BenWeek4Assignment.pdb
